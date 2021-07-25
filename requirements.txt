@@ -1,0 +1,16 @@
+Package                Version
+---------------------- -------
+asgiref                3.2.10
+Django                 3.1
+django-ckeditor        5.9.0
+django-debug-toolbar   2.2
+django-js-asset        1.2.2
+django-ranged-response 0.2.0
+django-simple-captcha  0.5.12
+news                   1.0
+Pillow                 7.2.0
+pip                    20.2.2
+pytz                   2020.1
+setuptools             47.1.0
+six                    1.15.0
+sqlparse               0.3.1
